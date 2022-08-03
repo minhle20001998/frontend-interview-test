@@ -1,0 +1,3 @@
+#Todo: 
+ - Responsive
+ - Clean code
